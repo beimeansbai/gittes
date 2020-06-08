@@ -1,3 +1,7 @@
-this is a test.111
+29
+/home/xx/gittest/test1/gittes7
+111.txtthis is a test.111
 this is second 22234567890
+clean
+smudge1
 clean
