@@ -1,7 +1,4 @@
-29
-/home/xx/gittest/test1/gittes7
-111.txtthis is a test.111
-this is second 22234567890
-clean
-smudge1
-clean
+file id(enc+sig): f6ede8fda041b472ce2bb6868cf26ebdecfabc50gittes111.txt
+this is a test.111
+this is second 222345678901
+
